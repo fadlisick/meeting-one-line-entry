@@ -7,7 +7,7 @@ could have replaced an entire pointless meeting.
 
 import os
 
-LINE = "This meeting could have been an email, and the email could have been nothing."
+LINE = "Thank you all for hopping on so I could read my own bullet points out loud while you muted yourselves to answer emails."
 
 
 def main():
